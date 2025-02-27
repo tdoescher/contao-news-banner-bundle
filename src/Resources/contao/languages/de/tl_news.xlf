@@ -1,0 +1,18 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="contao/languages/de/tl_news.php" source-language="en" target-language="de">
+    <body>
+      <trans-unit id="tl_news.banner_legend">
+        <source>Banner</source>
+        <target>Banner</target>
+      </trans-unit>
+      <trans-unit id="tl_news.addBanner.0">
+        <source>Add an banner</source>
+        <target>Ein Banner hinzufügen</target>
+      </trans-unit>
+      <trans-unit id="tl_news.addBanner.1">
+        <source>Add an banner to the news item.</source>
+        <target>Dem Beitrag ein Banner hinzufügen.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

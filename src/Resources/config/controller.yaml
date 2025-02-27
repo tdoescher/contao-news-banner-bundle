@@ -1,0 +1,10 @@
+services:
+  _defaults:
+    autoconfigure: true
+
+  tdoescher\NewsBannerBundle\Controller\FrontendModule\NewsBannerController:
+    arguments:
+      - '@security.helper'
+      - '@contao.filesystem.virtual.files'
+      - '@contao.image.studio'
+      - '%contao.image.valid_extensions%'

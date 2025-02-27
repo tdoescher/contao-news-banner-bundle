@@ -1,0 +1,10 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="contao/languages/de/modules.php" source-language="en" target-language="de">
+    <body>
+      <trans-unit id="FMD.news_banner.0">
+        <source>News-Banner</source>
+        <target>Nachrichten-Banner</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

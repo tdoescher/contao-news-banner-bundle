@@ -1,0 +1,28 @@
+{
+  "name": "tdoescher/news-banner-bundle",
+  "description": "Erweitert das Contao News Bundle um einen Banner",
+  "type": "contao-bundle",
+  "license": "LGPL-3.0-or-later",
+  "version": "0.0.0",
+  "authors": [
+    {
+      "name": "Torben Döscher",
+      "email": "mail@tdoescher.de",
+      "homepage": "https://tdoescher.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "contao/core-bundle": "^5.3",
+    "contao/news-bundle": "^5.3"
+  },
+  "extra": {
+    "contao-manager-plugin": "tdoescher\\NewsBannerBundle\\ContaoManager\\Plugin"
+  },
+  "autoload": {
+    "psr-4": {
+      "tdoescher\\NewsBannerBundle\\": "src/"
+    }
+  }
+}
