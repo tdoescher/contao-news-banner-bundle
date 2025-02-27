@@ -3,7 +3,6 @@
   "description": "Erweitert das Contao News Bundle um einen Banner",
   "type": "contao-bundle",
   "license": "LGPL-3.0-or-later",
-  "version": "0.0.0",
   "authors": [
     {
       "name": "Torben Döscher",
